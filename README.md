@@ -12,4 +12,4 @@
 
 #### 如果你支持我,欢迎打赏!
 
-![](images\reward.png "微信支付")
+![](images/reward.png "微信支付")
