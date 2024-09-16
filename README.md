@@ -1,6 +1,6 @@
 [![](images/bg.png "查看拍摄位置")](https://ditu.amap.com/place/B0IA3YKJ0N)
 
-# [治愈绾兮](https://github.com/Healer-TY "跳转到github主页")
+# [治愈绾兮-HealerTY](https://github.com/Healer-TY "跳转到github主页")
 
 ###### 星移斗转，沧海桑田，烟火人间依旧。
 
