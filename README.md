@@ -1,16 +1,15 @@
-## Hi there 👋
+[![](images/bg.png "查看拍摄位置")](https://ditu.amap.com/place/B0IA3YKJ0N)
 
-<!--
-**Healer-TY/Healer-TY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [治愈绾兮](https://github.com/Healer-TY "跳转到github主页")
 
-Here are some ideas to get you started:
+###### 星移斗转，沧海桑田，烟火人间依旧。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 你好! 👏👏👏
+
+#### 你可以在[Bilibili](https://space.bilibili.com/1789965358)上看到有意思的视频,或在[CSDN](https://blog.csdn.net/m0_67825298)上阅读或许能帮到你的文章!
+
+#### 如果你支持我,欢迎打赏!
+
+![](images\reward.png "微信支付")
