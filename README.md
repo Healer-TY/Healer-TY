@@ -1,4 +1,4 @@
-[![](images/bg.png "查看拍摄位置")](https://ditu.amap.com/place/B0IA3YKJ0N)
+[![背景](images/bg.png "查看拍摄位置")](https://ditu.amap.com/place/B0IA3YKJ0N)
 
 # [治愈绾兮-HealerTY](https://github.com/Healer-TY "跳转到github主页")
 
@@ -12,4 +12,4 @@
 
 #### 如果你支持我,欢迎打赏!
 
-![](images/reward.png "微信支付")
+![赞赏码](images/reward.png "微信支付")
